@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mattkgreene
-- 👀 I’m interested in Data Engineering, Data Science, Data Analysis, Crypto, Cloud Based Data-Warehousing Development
+- 👀 I’m interested in Back-End Development, Block Chain, Data Engineering, Data Science
 - 🌱 I’m currently learning AWS and Azure Full Stack Data Engineering Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
